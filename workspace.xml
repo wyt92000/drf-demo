@@ -1,0 +1,134 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="1741eb18-c42f-4546-9c31-f62ff960d3fa" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bookv2/serializer.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bookv2/urls.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/user/serializer.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/user/urls.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/utils/response.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/book/admin.py" beforeDir="false" afterPath="$PROJECT_DIR$/book/admin.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/book/migrations/0001_initial.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/book/models.py" beforeDir="false" afterPath="$PROJECT_DIR$/book/models.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/book/serializer.py" beforeDir="false" afterPath="$PROJECT_DIR$/book/serializer.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/book/views.py" beforeDir="false" afterPath="$PROJECT_DIR$/book/views.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/drf_demo02/settings.py" beforeDir="false" afterPath="$PROJECT_DIR$/drf_demo02/settings.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/drf_demo02/urls.py" beforeDir="false" afterPath="$PROJECT_DIR$/drf_demo02/urls.py" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="DjangoConsoleOptions" custom-start-script="import sys; print('Python %s on %s' % (sys.version, sys.platform))&#10;import django; print('Django %s' % django.get_version())&#10;sys.path.extend([WORKING_DIR_AND_PYTHON_PATHS])&#10;if 'setup' in dir(django): django.setup()&#10;import django_manage_shell; django_manage_shell.run(PROJECT_ROOT)">
+    <option name="myCustomStartScript" value="import sys; print('Python %s on %s' % (sys.version, sys.platform))&#10;import django; print('Django %s' % django.get_version())&#10;sys.path.extend([WORKING_DIR_AND_PYTHON_PATHS])&#10;if 'setup' in dir(django): django.setup()&#10;import django_manage_shell; django_manage_shell.run(PROJECT_ROOT)" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="JupyterTrust" id="13b5f411-2091-40dc-8a81-97f0c52fe3d5" />
+  <component name="ProjectId" id="1qW8xx1nVkdLx9Se3YJDIzOZjaH" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../drf_demo01" />
+    <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
+    <property name="vue.rearranger.settings.migration" value="true" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="E:\python2020\drf_project\drf_demo02\user" />
+      <recent name="E:\python2020\drf_project\drf_demo02\bookv2" />
+      <recent name="E:\python2020\drf_project\drf_demo02" />
+      <recent name="E:\python2020\drf_project\drf_demo02\book" />
+      <recent name="E:\python2020\drf_project\drf_demo02\drf_demo02" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="drf_demo02" type="Python.DjangoServer" factoryName="Django server">
+      <module name="drf_demo02" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+        <env name="DJANGO_SETTINGS_MODULE" value="drf_demo02.settings" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="launchJavascriptDebuger" value="false" />
+      <option name="port" value="8000" />
+      <option name="host" value="" />
+      <option name="additionalOptions" value="" />
+      <option name="browserUrl" value="" />
+      <option name="runTestServer" value="false" />
+      <option name="runNoReload" value="false" />
+      <option name="useCustomRunCommand" value="false" />
+      <option name="customRunCommand" value="" />
+      <method v="2" />
+    </configuration>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="1741eb18-c42f-4546-9c31-f62ff960d3fa" name="Default Changelist" comment="" />
+      <created>1617184236128</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1617184236128</updated>
+      <workItem from="1617184240306" duration="23000" />
+      <workItem from="1617184339887" duration="3276000" />
+      <workItem from="1617193112738" duration="3913000" />
+      <workItem from="1617202134348" duration="278000" />
+      <workItem from="1617268483613" duration="18083000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="832" y="175" key="FileChooserDialogImpl" timestamp="1617281185677">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state x="832" y="175" key="FileChooserDialogImpl/0.0.1536.864@0.0.1536.864" timestamp="1617281185677" />
+    <state width="1171" height="183" key="GridCell.Tab.0.bottom" timestamp="1617288194314">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state width="1171" height="183" key="GridCell.Tab.0.bottom/0.0.1536.864@0.0.1536.864" timestamp="1617288194314" />
+    <state width="1171" height="183" key="GridCell.Tab.0.center" timestamp="1617288194313">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state width="1171" height="183" key="GridCell.Tab.0.center/0.0.1536.864@0.0.1536.864" timestamp="1617288194313" />
+    <state width="1171" height="183" key="GridCell.Tab.0.left" timestamp="1617288194313">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state width="1171" height="183" key="GridCell.Tab.0.left/0.0.1536.864@0.0.1536.864" timestamp="1617288194313" />
+    <state width="1171" height="183" key="GridCell.Tab.0.right" timestamp="1617288194313">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state width="1171" height="183" key="GridCell.Tab.0.right/0.0.1536.864@0.0.1536.864" timestamp="1617288194313" />
+    <state x="716" y="158" width="672" height="678" key="search.everywhere.popup" timestamp="1617271191554">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state x="716" y="158" width="672" height="678" key="search.everywhere.popup/0.0.1536.864@0.0.1536.864" timestamp="1617271191554" />
+  </component>
+</project>
